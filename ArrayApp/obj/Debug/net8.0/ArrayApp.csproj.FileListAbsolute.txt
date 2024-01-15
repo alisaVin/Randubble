@@ -1,0 +1,14 @@
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.AssemblyInfoInputs.cache
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.AssemblyInfo.cs
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.exe
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.deps.json
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.runtimeconfig.json
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.dll
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\bin\Debug\net8.0\ArrayApp.pdb
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.dll
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\obj\Debug\net8.0\refint\ArrayApp.dll
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.pdb
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\obj\Debug\net8.0\ArrayApp.genruntimeconfig.cache
+C:\Users\avinogradova\vs_apps\Fabio_Aufgabe\ArrayApp\ArrayApp\obj\Debug\net8.0\ref\ArrayApp.dll
